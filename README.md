@@ -5,7 +5,7 @@ Golang 1.4 beta on Android
 
 ###QUICK TUTORIAL
 
-1. From go.mobile:
+1. Download and install NDK -> From go.mobile:
 
 Pick a home for the standalone NDK toolchain and set an environment variable:
 	NDK_ROOT=$HOME/android/ndk-toolchain
