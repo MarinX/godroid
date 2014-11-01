@@ -11,14 +11,22 @@
     <EditText
         android:hint="@string/e_text"
         android:id="@+id/e_txt"
-        android:layout_marginBottom="100dp"
+        android:layout_marginBottom="50dp"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
 
     <Button
         android:text="@string/b_send"
+        android:layout_marginBottom="50dp"
         android:layout_below="@+id/e_txt"
         android:id="@+id/b_to_go"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/b_web"
+        android:layout_below="@+id/b_to_go"
+        android:text="@string/b_web"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
 
