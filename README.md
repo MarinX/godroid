@@ -3,6 +3,9 @@ godroid
 
 Golang 1.4 beta on Android
 
+Thanks for support:
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-GoDroid-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1075)
+
 ###QUICK TUTORIAL
 
 1. Download and install NDK -> From go.mobile:
