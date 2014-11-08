@@ -2,6 +2,7 @@ godroid
 =======
 
 Golang 1.4 beta on Android
+
 currently only working on linux (use a vm if are on macos)
 
 
