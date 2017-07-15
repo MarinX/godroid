@@ -27,15 +27,11 @@ Configure the NDK toolchain:
 
 3. At some point, you should see gcc erros about 'gcc: error: unrecognized command line option -marm'
 
-4. Go get:
-
-	go get github.com/MarinX/godroid
-
-install all dependicies and explore the source :)
+4. Go get: ```go get github.com/MarinX/godroid```
 
 5. Folder android_so_lib, contains makefile to build your .so lib (I already included this is AndroidStudio project, so you can check it and run)
 
-6.You can import the android_studio project and explore/modify/run (support for android 2.3>=).
+6. You can import the android_studio project and explore/modify/run (support for android 2.3>=).
 
 7. When you are done, don't forget to uncomment or remove the PATH you set, to use your standard gcc.
 
